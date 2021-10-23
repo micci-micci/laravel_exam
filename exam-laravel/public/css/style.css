@@ -1,0 +1,19 @@
+input {
+    padding: 4px;
+    box-sizing: border-box;
+}
+
+.btn {
+    padding: 4px 8px;
+    font-size: 14px;
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 8px;
+}
